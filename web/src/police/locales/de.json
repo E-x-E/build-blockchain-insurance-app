@@ -1,14 +1,14 @@
 {
-  "Police": "Polizei",
-  "No outstanding theft claims.": "Keine unbearbeiteten Diebstahlsfälle.",
-  "Loading Theft Claims...": "Diebstahlsfälle werden geladen...",
-  "Theft Claim": "Diebstahlsfall",
-  "Name": "Name",
-  "Brand": "Marke",
-  "Model": "Modell",
-  "Serial No.": "Seriennr.",
-  "Description": "Beschreibung",
-  "File Reference": "Aktenzeichen",
-  "Confirm": "Bestätigen",
-  "Reject": "Ablehnen"
+  "Police": "监督",
+  "No outstanding theft claims.": "没有明显窃取的索赔.",
+  "Loading Theft Claims...": "加载窃取的索赔...",
+  "Theft Claim": "窃取索赔",
+  "Name": "名称",
+  "Brand": "品牌",
+  "Model": "型号",
+  "Serial No.": "序列号",
+  "Description": "描述",
+  "File Reference": "文件引用",
+  "Confirm": "确定",
+  "Reject": "拒绝"
 }
