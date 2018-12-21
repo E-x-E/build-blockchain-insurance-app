@@ -1,10 +1,10 @@
 {
   "Block Explorer": "Block Explorer",
-  "Show Explorer": "Explorer anzeigen",
-  "Hide Explorer": "Explorer ausblenden",
-  "Block No.": "Blocknr.",
-  "Timestamp": "Zeitstempel",
-  "Transactions": "Transaktionen",
+  "Show Explorer": "Show Explorer",
+  "Hide Explorer": "Hide Explorer",
+  "Block No.": "Block No.",
+  "Timestamp": "Timestamp",
+  "Transactions": "Transactions",
   "Hash": "Hash",
-  "Loading Blocks...": "Blöcke werden geladen..."
+  "Loading Blocks...": "Loading Blocks..."
 }
